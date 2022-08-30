@@ -1,6 +1,8 @@
 ## Associate Software Engineer @WEBKORPS
 ### Ruby on Rails Developer
 
+#### Python, C, C++, Ruby, HTML, CSS
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhitwk&theme=merko" alt="shobhitwk" /></p>
   
